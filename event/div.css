@@ -31,7 +31,7 @@ div.wpcf7-spam-blocked {
 	border: 2px solid #ffa500;
 }
 
-div.wpcf7-validation-errors {
+div.wpcf7-validation-errors  {
 	border: 2px solid #f7e700;
 }
 
@@ -105,3 +105,4 @@ div.wpcf7 input[type="file"] {
 div.wpcf7 input[type="file"]:disabled {
 	cursor: default;
 }
+
